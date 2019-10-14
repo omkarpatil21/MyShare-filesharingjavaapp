@@ -41,8 +41,8 @@ Looking for help from fellow community members to further improve the project .
 
 Areas of potential improvement : 
 
-* User Interface. 
-* To handle large file transfers.
+* improvement in User Interface. 
+* improvement in handling large file transfers.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
